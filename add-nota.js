@@ -27,3 +27,4 @@ console.log("O método filter retorna " + nota)
 
 nota = notas.findIndex(element => element > 7)
 console.log("O índice é " + nota)
+console.log("O índice é " + nota)
